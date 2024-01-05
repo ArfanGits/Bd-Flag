@@ -11,11 +11,12 @@
   .flag-container{
     height: 250px;
     width: 500px;
-    background-color: green;
+    background-color: darkgreen;
     position: relative;
     left: 50%;
     top: 40%;
     transform: translate(-50%,-40%);
+    border-radius: 5%;
   }
 
 .flag-circle{
